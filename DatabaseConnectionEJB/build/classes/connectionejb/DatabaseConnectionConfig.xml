@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Database Connection Properties</comment>
+<entry key="dbDriver">com.mysql.jdbc.Driver</entry>
+<entry key="dbUrl">jdbc:mysql://localhost:3306/mysql?zeroDateTimeBehavior=convertToNull</entry>
+
+<entry key="dbTableProduct">product</entry>
+<entry key="dbProductID">p_id</entry>
+<entry key="dbProductTypeID">pt_id_fk_</entry>
+<entry key="dbProductName">p_name</entry>
+<entry key="dbProductPrice">p_price</entry>
+<entry key="dbProductDesc">p_desc</entry>
+<entry key="dbProductImage">p_image</entry>
+
+
+
+
+
+
+
+<entry key="user">root</entry>
+<entry key="password"> </entry>
+</properties>
